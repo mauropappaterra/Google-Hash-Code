@@ -3,6 +3,11 @@
 <a href="https://github.com/yogurt1989/Google-Hash-Code/blob/master/2018/online_qualification_round_2018.pdf"> READ THE PROBLEM STATEMENT</a><br>
 <a href="https://github.com/yogurt1989/Google-Hash-Code/blob/master/2018/Main.py"> SEE OUR SOLUTION </a><br>
 <br>
+
+<h2>Final Score</h2>
+Our Final Score: 41,791,508<br>
+First Finalist Final Score: 49,776,211<br>
+
 <h2>Team Info</h2>
 TEAM: 'Too Young Too Simple' <br><br>
 TEAM MEMBERS ARE: <br>
@@ -16,12 +21,7 @@ HUB: <b>Uppsala University, Sweden</b>
 
 <h2>Our Stats</h2> 
 
-<h3>Final Score</h3>
-
-Our Final Score: 41,791,508<br>
-First Finalist Final Score: 49,776,211<br>
-
-We are:
+We are: <br>
 #1070 in the World <br>
 #34 in Sweden <br>
 #2 in Uppsala University Hub<br>
