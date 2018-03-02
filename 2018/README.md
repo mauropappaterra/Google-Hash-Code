@@ -19,7 +19,7 @@ Self-driving vehicles are an exciting development for transportation. They aim t
 and more available while also saving commuters time.
 In this competition problem, we’ll be looking at how a fleet of self-driving vehicles can efficiently get
 commuters to their destinations in a simulated city. <br><br>
-<a href="https://github.com/yogurt1989/Google-Hash-Code/blob/master/2018/online_qualification_round_2018.pdf"> -Read the full problem statement</a><br>
+<a href="https://github.com/yogurt1989/Google-Hash-Code/blob/master/2018/Problem%20Statement%20-%20Online%20Qualification%20Round%20(2018).pdf"> -Read the full problem statement</a><br>
 <a href="https://github.com/yogurt1989/Google-Hash-Code/blob/master/2018/Main.py"> -See our solution </a><br>
 <br>
 
