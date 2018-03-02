@@ -25,7 +25,6 @@ We are: <br>
 <br>
 
 <h2>Our Stats</h2> 
-<br>
 <h3>Total Score</h3>
 <img src="https://i.imgur.com/VMoypRs.png" width=80%>
 
