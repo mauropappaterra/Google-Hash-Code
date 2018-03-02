@@ -6,7 +6,7 @@
 <br>
 
 Our Final Score: <b>41,791,508 points</b><br>
-First Finalist Final Score: 49,776,211 points<br>
+(First Finalist Final Score: 49,776,211 points)<br>
 
 We are: <br>
 <b>#1070</b> in the World <br>
@@ -26,6 +26,7 @@ We are: <br>
 
 <h2>Our Stats</h2> 
 <br>
+<h3>Total Score</h3>
 <img src="https://i.imgur.com/VMoypRs.png" width=80%>
 
 <h3>Sample: B - Should be easy</h3>
