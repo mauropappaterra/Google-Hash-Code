@@ -21,7 +21,7 @@ commuters to their destinations in a simulated city. <br><br>
 <a href="https://github.com/yogurt1989/Google-Hash-Code/blob/master/2018/Main.py"> -See our solution </a><br>
 <br>
 
-<img src="https://i.imgur.com/Cj8ckkh.jpg" width=100%>
+<img src="https://i.imgur.com/Cj8ckkh.jpg">
 <h2>Our Final Score: <b>41,791,508 points</b></h2>
 (First Finalist Final Score: 49,776,211 points)<br>
 <br>
