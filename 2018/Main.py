@@ -50,11 +50,11 @@ def reward (car, ride):
     return ride.points + bonus * B - max(ride.starting_time - current_time, distance_pickup_car) - validation
 
 # PATH TO INPUT
-#path = "a_example.in"
-#path = "b_should_be_easy.in"
-#path = "c_no_hurry.in"
-path = "d_metropolis.in"
-#path = "e_high_bonus.in"
+path = "Input\\a_example.in"
+#path = "Input\\b_should_be_easy.in"
+#path = "Input\c_no_hurry.in"
+#path = "Input\d_metropolis.in"
+#path = "Input\e_high_bonus.in"
 
 mode = "r"
 with open (path, mode) as reader:
@@ -121,7 +121,7 @@ for step in range(T):
 
         car.occupied -= 1
 
-outFile = open("result_" + path, "w+")
+outFile = open(path.replace("Input\\","Output\\result_"), "w+")
 
 for car in all_cars:
     outFile.write(repr(car) + "\n")
