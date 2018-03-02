@@ -11,7 +11,7 @@
 
 <h2>Self-driving rides</h2>
 <h3>Problem statement for the Online Qualification Round of Hash Code 2018</h3>
-<h4><b>INTRODUCTION</b><h4>
+<h4><b>INTRODUCTION</b></h4>
 Millions of people commute by car every day; for example, to school or to their workplace.
 Self-driving vehicles are an exciting development for transportation. They aim to make traveling by car safer
 and more available while also saving commuters time.
