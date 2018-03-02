@@ -1,7 +1,26 @@
-<h1>Google Hash Code 2018 #hashcodesolved </h1>
+<pre>
+   ____                   _        _   _           _        ____          _        ____   ___  _  ___  
+  / ___| ___   ___   __ _| | ___  | | | | __ _ ___| |__    / ___|___   __| | ___  |___ \ / _ \/ |( _ ) 
+ | |  _ / _ \ / _ \ / _` | |/ _ \ | |_| |/ _` / __| '_ \  | |   / _ \ / _` |/ _ \   __) | | | | |/ _ \ 
+ | |_| | (_) | (_) | (_| | |  __/ |  _  | (_| \__ \ | | | | |__| (_) | (_| |  __/  / __/| |_| | | (_) |
+  \____|\___/ \___/ \__, |_|\___| |_| |_|\__,_|___/_| |_|  \____\___/ \__,_|\___| |_____|\___/|_|\___/ 
+                    |___/                                                                              
+</pre>
+
+<h1>#hashcodesolved</h1>
 
 <h2>Overview</h2>
-<a href="https://github.com/yogurt1989/Google-Hash-Code/blob/master/2018/online_qualification_round_2018.pdf"> READ THE PROBLEM STATEMENT</a><br>
+
+<h3>Self-driving rides</h3> <br>
+<h4>Problem statement for the Online Qualification Round of Hash Code 2018</h4><br>
+
+INTRODUCTION<br>
+Millions of people commute by car every day; for example, to school or to their workplace.
+Self-driving vehicles are an exciting development for transportation. They aim to make traveling by car safer
+and more available while also saving commuters time.
+In this competition problem, we’ll be looking at how a fleet of self-driving vehicles can efficiently get
+commuters to their destinations in a simulated city. <br>
+<a href="https://github.com/yogurt1989/Google-Hash-Code/blob/master/2018/online_qualification_round_2018.pdf"> READ THE FULL PROBLEM STATEMENT</a><br>
 <a href="https://github.com/yogurt1989/Google-Hash-Code/blob/master/2018/Main.py"> SEE OUR SOLUTION </a><br>
 <br>
 
