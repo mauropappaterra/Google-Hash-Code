@@ -25,9 +25,9 @@ commuters to their destinations in a simulated city. <br><br>
 (First Finalist Final Score: 49,776,211 points)<br>
 <img src="https://i.imgur.com/Cj8ckkh.jpg">
 We are: <br>
-<b>#1070</b> in the World <br>
-<b>#34</b> in Sweden <br>
 <b>#2</b> at Uppsala University's Hub<br>
+<b>#34</b> in Sweden <br>
+<b>#1070</b> in the World <br>
 
 <h2>Team Info</h2>
 <img src="https://i.imgur.com/q6n77I9.png" width=80%>
