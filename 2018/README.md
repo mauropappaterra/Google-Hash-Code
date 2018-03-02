@@ -24,7 +24,6 @@ commuters to their destinations in a simulated city. <br><br>
 <h2>Our Final Score: <b>41,791,508 points</b></h2>
 (First Finalist Final Score: 49,776,211 points)<br>
 <img src="https://i.imgur.com/Cj8ckkh.jpg">
-<br>
 We are: <br>
 <b>#1070</b> in the World <br>
 <b>#34</b> in Sweden <br>
