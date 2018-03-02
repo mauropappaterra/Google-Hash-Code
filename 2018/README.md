@@ -4,29 +4,26 @@
 <a href="https://github.com/yogurt1989/Google-Hash-Code/blob/master/2018/Main.py"> SEE OUR SOLUTION </a><br>
 <br>
 
-<h2>Final Score</h2>
-Our Final Score: 41,791,508<br>
-First Finalist Final Score: 49,776,211<br>
+Our Final Score: <b>41,791,508 points</b><br>
+First Finalist Final Score: 49,776,211 points<br>
+
+We are: <br>
+#1070 in the World <br>
+#34 in Sweden <br>
+#2 at Uppsala University's Hub<br>
 
 <h2>Team Info</h2>
-TEAM: 'Too Young Too Simple' <br><br>
-TEAM MEMBERS ARE: <br>
+<b>TEAM:</b> 'Too Young Too Simple' <br><br>
+<b>TEAM MEMBERS ARE:</b> <br>
 -Albert Yang <br>
 -Lei You <br>
 -Mauro J. Pappaterra <br>
 -Miel Verkerken <br>
 <br>
-HUB: <b>Uppsala University, Sweden</b>
+<b>HUB:</b> Uppsala University, Sweden
 <br>
 
 <h2>Our Stats</h2> 
-
-We are: <br>
-#1070 in the World <br>
-#34 in Sweden <br>
-#2 in Uppsala University Hub<br>
-
-<br>
 <br>
 <img src="https://i.imgur.com/VMoypRs.png" width=80%>
 
