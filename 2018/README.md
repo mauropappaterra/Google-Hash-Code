@@ -5,9 +5,9 @@
 <a href="https://github.com/yogurt1989/Google-Hash-Code/blob/master/2018/Main.py"> SEE OUR SOLUTION </a><br>
 <br>
 
-<h2>Our Final Score: <b>41,791,508 points</b></h2><br>
+<h2>Our Final Score: <b>41,791,508 points</b></h2>
 (First Finalist Final Score: 49,776,211 points)<br>
-
+<br>
 We are: <br>
 <b>#1070</b> in the World <br>
 <b>#34</b> in Sweden <br>
