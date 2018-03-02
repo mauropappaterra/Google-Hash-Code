@@ -5,7 +5,7 @@
 <a href="https://github.com/yogurt1989/Google-Hash-Code/blob/master/2018/Main.py"> SEE OUR SOLUTION </a><br>
 <br>
 
-Our Final Score: <b>41,791,508 points</b><br>
+<h2>Our Final Score: <b>41,791,508 points</b></h2><br>
 (First Finalist Final Score: 49,776,211 points)<br>
 
 We are: <br>
