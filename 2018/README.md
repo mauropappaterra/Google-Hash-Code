@@ -17,8 +17,8 @@ Self-driving vehicles are an exciting development for transportation. They aim t
 and more available while also saving commuters time.
 In this competition problem, we’ll be looking at how a fleet of self-driving vehicles can efficiently get
 commuters to their destinations in a simulated city. <br><br>
-<a href="https://github.com/yogurt1989/Google-Hash-Code/blob/master/2018/online_qualification_round_2018.pdf"> READ THE FULL PROBLEM STATEMENT</a><br>
-<a href="https://github.com/yogurt1989/Google-Hash-Code/blob/master/2018/Main.py"> SEE OUR SOLUTION </a><br>
+<a href="https://github.com/yogurt1989/Google-Hash-Code/blob/master/2018/online_qualification_round_2018.pdf"> -Read the full problem statement</a><br>
+<a href="https://github.com/yogurt1989/Google-Hash-Code/blob/master/2018/Main.py"> -See our solution </a><br>
 <br>
 
 <h2>Our Final Score: <b>41,791,508 points</b></h2>
@@ -30,15 +30,7 @@ We are: <br>
 <b>#2</b> at Uppsala University's Hub<br>
 
 <h2>Team Info</h2>
-<b>TEAM:</b> 'Too Young Too Simple' <br><br>
-<b>TEAM MEMBERS ARE:</b> <br>
--Albert Yang <br>
--Lei You <br>
--Mauro J. Pappaterra <br>
--Miel Verkerken <br>
-<br>
-<b>HUB:</b> Uppsala University, Sweden
-<br>
+<img src="https://i.imgur.com/q6n77I9.png" width=80%>
 
 <h2>Our Stats</h2> 
 <h3>Total Score</h3>
