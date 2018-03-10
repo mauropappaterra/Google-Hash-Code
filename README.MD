@@ -6,7 +6,7 @@ This is a collection of my solutions to various challenges from <a href="https:/
 <br>
 
 Jump to folder:<br>
-<a href="https://github.com/yogurt1989/Google-Code-Jam/tree/master/2018">2018</a><br>
+<a href="https://github.com/yogurt1989/Google-Hash-Code/tree/master/2018">2018</a><br>
 <br>
 Related: Check out my <a href="https://github.com/yogurt1989/Google-Code-JAM/tree/master">Google Code Jam</a> submissions<br>
 <br>
