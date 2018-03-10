@@ -55,7 +55,6 @@ We are: <br>
 <h3>Sample: E - High Bonus</h3>
 <img src="https://i.imgur.com/eNNIoYE.png" width=80%>
 <br>
-<br>
 <a href="#top">Back to Top</a> 
 <br>
 <hr>
