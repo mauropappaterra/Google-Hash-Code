@@ -1,8 +1,8 @@
 <h1>Google Hash Code</h1>
 
-This is a collection of my team's submissions for <a href="https://hashcode.withgoogle.com/">Google’s Hash Code</a>, a team programming competition organized by Google. During the competitions thousands of teams worldwide compete against each other solving Google's engineering problems in real time.
+This is a collection of my team submissions for <a href="https://hashcode.withgoogle.com/">Google’s Hash Code</a>, a team programming competition organized by Google. During the competitions thousands of teams worldwide compete against each other solving Google's engineering problems in real time.
 <br><br>
-<b>All submissions are sorted by year of publication. You can find a description of each challenge and solution, as well as instruction to execute the programs on each folder README.md file.</b>
+<b>All submissions are sorted by year of publication. You can find a description of each challenge and solution, as well as instruction to execute the programs on each folder.</b>
 <br>
 
 Jump to folder:<br>

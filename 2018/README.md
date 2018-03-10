@@ -56,7 +56,8 @@ We are: <br>
 <img src="https://i.imgur.com/eNNIoYE.png" width=80%>
 <br>
 <br>
-
+<a href="#top">Back to Top</a> 
+<br>
 <hr>
 <h3 id="help">Instructions to run the programs</h3>
 -Clone or download this repository<br>
