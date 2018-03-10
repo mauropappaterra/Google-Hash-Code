@@ -20,14 +20,13 @@ and more available while also saving commuters time.
 In this competition problem, we’ll be looking at how a fleet of self-driving vehicles can efficiently get
 commuters to their destinations in a simulated city. <br><br>
 <a href="https://github.com/yogurt1989/Google-Hash-Code/blob/master/2018/Problem%20Statement%20-%20Online%20Qualification%20Round%20(2018).pdf"> -Read the full problem statement</a><br>
-<a href="https://github.com/yogurt1989/Google-Hash-Code/blob/master/2018/Main.py"> -See our solution </a><br><br>
-
+<a href="https://github.com/yogurt1989/Google-Hash-Code/blob/master/2018/Main.py"> -See our solution </a><br>
 <br>
 More <br>
-<a href="https://github.com/yogurt1989/Google-Hash-Code">Go Back</a>
+<a href="https://github.com/yogurt1989/Google-Hash-Code">Go Back</a> <br>
 <a href="#help">Instructions to run the programs</a> <br>
 <br>
-<hr>
+<br>
 
 <h2>Our Final Score: <b>41,791,508 points</b></h2>
 (First Finalist Final Score: 49,776,211 points)<br>
@@ -55,6 +54,8 @@ We are: <br>
 
 <h3>Sample: E - High Bonus</h3>
 <img src="https://i.imgur.com/eNNIoYE.png" width=80%>
+<br>
+<br>
 
 <hr>
 <h3 id="help">Instructions to run the programs</h3>
@@ -76,7 +77,6 @@ We are: <br>
 &nbsp &nbsp &nbsp <code>> exec(open("<i>path</i>/<i>script</i>.py").read())</code> <br>
 &nbsp &nbsp &nbsp <b>Notice: Replace <i>path</i> with the local path to the folder that contains the script you want to execute</b> <br>
 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<b>Replace <i>script</i> with the name of the file you want to execute e.g. PancakeFlipper.py</b> <br>
-<br>
 <br>
 <a href="#top">Back to Top</a> 
 <br>
