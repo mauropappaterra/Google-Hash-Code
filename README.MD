@@ -8,7 +8,7 @@ This is a collection of my team submissions for <a href="https://hashcode.withgo
 Jump to folder:<br>
 <a href="https://github.com/yogurt1989/Google-Hash-Code/tree/master/2018">2018</a><br>
 <br>
-Related: Check out my <a href="https://github.com/yogurt1989/Google-Code-JAM/tree/master">Google Code Jam</a> submissions<br>
+<b>Related:</b> Check out my <a href="https://github.com/yogurt1989/Google-Code-JAM/tree/master">Google Code Jam</a> submissions<br>
 <br>
 
 <pre>
