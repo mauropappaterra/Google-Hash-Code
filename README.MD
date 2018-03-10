@@ -1,8 +1,8 @@
 <h1>Google Hash Code</h1>
 
-This is a collection of my solutions to various challenges from <a href="https://code.google.com/codejam/">Google’s Code Jam</a>, the well-known international competition hosted by Google. Most of these challenges include different mathematical and computer science concepts that normally appear in everyday computing problems such as recursion, loops, formatted output, file I/O, data structures, and more. I try to solve as many challenges as possible, and add them all to this repository. All solutions are coded in Python.
+This is a collection of my team's submissions for <a href="https://hashcode.withgoogle.com/">Google’s Hash Code</a>, a team programming competition organized by Google. During the competitions thousands of teams worldwide compete against each other solving Google's engineering problems in real time.
 <br><br>
-<b>All challenges are sorted by year of publication. You can find a description of each challenge and solution, as well as instruction to execute the programs on each folder.</b>
+<b>All submissions are sorted by year of publication. You can find a description of each challenge and solution, as well as instruction to execute the programs on each folder README.md file.</b>
 <br>
 
 Jump to folder:<br>
