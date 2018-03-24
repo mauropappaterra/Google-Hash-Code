@@ -21,6 +21,8 @@ In this competition problem, we’ll be looking at how a fleet of self-driving v
 commuters to their destinations in a simulated city. <br><br>
 <a href="https://github.com/yogurt1989/Google-Hash-Code/blob/master/2018/Problem%20Statement%20-%20Online%20Qualification%20Round%20(2018).pdf"> -Read the full problem statement</a><br>
 <a href="https://github.com/yogurt1989/Google-Hash-Code/blob/master/2018/Main.py"> -See our solution </a><br>
+<a href="https://github.com/yogurt1989/Google-Hash-Code/blob/master/2018/Hash%20Code%202018%20-%20Certificate%20for%20Online%20Qualification%20Round%20-%20mauro.pappaterra%40gmail.com.pdf"> -See certificate of participation </a><br>
+
 <br>
 More <br>
 <a href="https://github.com/yogurt1989/Google-Hash-Code">Go Back</a> <br>
